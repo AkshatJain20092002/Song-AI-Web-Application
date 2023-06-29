@@ -1,7 +1,7 @@
 # Song AI Web Application
 
-![Song AI](![WhatsApp Image 2023-06-29 at 8 52 53 PM](https://github.com/heathbrew/Song-AI-Web-Application/assets/55629425/d8aa65c6-c9de-4ebf-b1f0-85f48fb5417e)
-)
+!![Song AI](https://github.com/heathbrew/Song-AI-Web-Application/assets/55629425/d8aa65c6-c9de-4ebf-b1f0-85f48fb5417e)
+
 
 ## Description
 
