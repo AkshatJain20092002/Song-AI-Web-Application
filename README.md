@@ -41,7 +41,7 @@ The Song AI web application is a powerful platform that utilizes generative AI t
 ![Screenshot 3](https://github.com/heathbrew/Song-AI-Web-Application/assets/55629425/4d9ba2f0-21ff-40dd-8f77-2f3339fb5201)
 
 
-![Screenshot 4]https://github.com/heathbrew/Song-AI-Web-Application/assets/55629425/17477fa3-913f-45c1-9950-dcf412ef6586)
+![Screenshot 4](https://github.com/heathbrew/Song-AI-Web-Application/assets/55629425/17477fa3-913f-45c1-9950-dcf412ef6586)
 
 
 ![Screenshot 5](https://github.com/heathbrew/Song-AI-Web-Application/assets/55629425/dc753ac8-9e29-40e4-b98a-e66db48a08a7)
